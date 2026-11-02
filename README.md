@@ -1,4 +1,4 @@
-# Linux Learning Log
+# Computer Networks Learning Log
 
 A day-by-day record of my Computer Networks learning journey.  
 
