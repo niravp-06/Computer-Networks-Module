@@ -24,6 +24,6 @@ A day-by-day record of my Computer Networks learning journey.
 |-----|------|
 | [Day-001](Day-001.md) | 1st November 2026 |
 | [Day-002](Day-002.md) | 2nd November 2026 |
-| [Day-003](Day-003.md) | 3rd November 2026 
-
+| [Day-003](Day-003.md) | 3rd November 2026 |
+| [Day-004](Day-004.md) | 4th November 2026 |
 ---
